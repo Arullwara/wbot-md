@@ -3,10 +3,10 @@ import { fileURLToPath } from 'url'
 import { watchFile, unwatchFile } from 'fs'
 
 global.owner = [
-  ['+62 852-4075-0713'],
-  ['+62 813-6306-4991'],
-  ['+212 706-611366', 'Ripp', true],
-  ['+687 82.79.06', 'LitRHap', true]
+  ['+6285822347348'],
+  ['+6285822347348'],
+  ['+6285822347348', 'Ripp', true],
+  ['+6285822347348', 'LitRHap', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -42,8 +42,8 @@ global.thumbnailUrl = [
 ]
 
 // Sticker WM
-global.packname = ''
-global.author = ''
+global.packname = 'ArullBotz-MD'
+global.author = 'ArullOfc'
 
 global.multiplier = 69 // The higher, The harder levelup
 
